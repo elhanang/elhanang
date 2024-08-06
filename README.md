@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elhanang
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning data analytics on Coursera.
-- 💞️ I’m looking to collaborate on data anlytics 
+- 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me: My DM is open.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love sports and music. 
