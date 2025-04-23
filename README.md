@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @elhanang
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning data analytics on Coursera.
-- 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me: My DM is open.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sports and music. 
+Hi 👋🏾, I'm El-hanan Garba, a passionate and versatile individual with an excellent understanding of platforms for effective data analysis, including SQL, spreadsheets, Tableau, Power BI, Python, AI, and cloud computing (AWS, Azure).  
+
+Through academic projects, personal work, and hands-on training, I've gained experience collecting, cleaning, transforming, organizing, and visualizing data for analysis to help make informed decisions and uncover meaningful insights. I also possess strong problem-solving, communication, organizational, and analytical skills.  
+
+Let's connect and explore the power of data together!
 
 <!---
 elhanang/elhanang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
