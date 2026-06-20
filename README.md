@@ -23,7 +23,7 @@
 - 🔍 I'm a **Data Analyst and BI Professional** focused on turning raw, messy data into clear, actionable insights
 - 🛠️ I work with **SQL, Power BI, Excel, and Python** to analyze data, build dashboards, and support smarter decision-making
 - 📊 I've analyzed datasets exceeding **5.5 million records** across healthcare, e-commerce, and transportation
-- 🌍 Based in **Bauchi, Nigeria** — working with clients globally on **Contra** and **Fiverr**
+- 🌍 Based in **Abuja, Nigeria** — working with clients globally on **Contra** and **Fiverr**
 - 🎓 B.Sc. Sociology — **University of Jos** | Google Data Analytics Professional Certificate
 - 💡Currently seeking opportunities as a Data or BI Analyst where I can leverage data to improve decision-making, optimize performance, and build scalable reporting systems
 - 🆓Currently building my freelance practice and expanding into **data storytelling and BI consulting**
