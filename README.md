@@ -69,8 +69,8 @@
 
 | Project | Tools | Description |
 |---|---|---|
-| [🛡️ EIC Insurance Dashboard](https://github.com/elhanang) | Power BI, DAX | Designed an insurance company dashboard with KPI cards, ribbon charts, scatter plots with symmetry shading, and profitable segment analysis |
-[🏨 Hotel Bookings Dashboard](https://github.com/elhanang) | Power BI, DAX | Built an end-to-end hotel reservation dashboard analyzing booking trends, loyalty segments, weekday vs weekend patterns, and customer behaviour 
+| [🛡️ EIC Insurance Dashboard](https://github.com/elhanang) | Power BI, DAX | I'm building an insurance company dashboard with KPI cards, ribbon charts, scatter plots with symmetry shading, and profitable segment analysis |
+[🏨 Hotel Bookings Dashboard](https://github.com/elhanang) | Power BI, DAX | Building an end-to-end hotel reservation dashboard analyzing booking trends, loyalty segments, weekday vs weekend patterns, and customer behaviour 
 
 ---
 
