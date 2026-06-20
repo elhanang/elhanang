@@ -25,9 +25,8 @@
 - 📊 I've analyzed datasets exceeding **5.5 million records** across healthcare, e-commerce, and transportation
 - 🌍 Based in **Abuja, Nigeria** — working with clients globally on **Contra** and **Fiverr**
 - 🎓 B.Sc. Sociology — **University of Jos** | Google Data Analytics Professional Certificate
-- 💡Currently seeking opportunities as a Data or BI Analyst where I can leverage data to improve decision-making, optimize performance, and build scalable reporting systems
-- 🆓Currently building my freelance practice and expanding into **data storytelling and BI consulting**
-- 📬 Reach me at **garbaelhanan@gmail.com**
+- 💡Currently seeking opportunities as a **Data** or **BI Analyst** where I can leverage data to improve decision-making, optimize performance, and build scalable reporting systems
+- ✨I'm in search of something beyond the daily life
 
 ---
 
