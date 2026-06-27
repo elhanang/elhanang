@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Business Intelligence Analyst | Building Scalable Reporting & Delivering Data-Driven Insights</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/el-hanan-garba" target="_blank">
+  <a href="https:/www.linkedin.com/in/elhanangarba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://elhanang.github.io/El-hananGarba.github.io/" target="_blank">
@@ -23,10 +23,8 @@
 - 🔍 I'm a **Data Analyst and BI Professional** focused on turning raw, messy data into clear, actionable insights
 - 🛠️ I work with **SQL, Power BI, Excel, and Python** to analyze data, build dashboards, and support smarter decision-making
 - 📊 I've analyzed datasets exceeding **5.5 million records** across healthcare, e-commerce, and transportation
-- 🌍 Based in **Abuja, Nigeria** — working with clients globally on **Contra** and **Fiverr**
-- 🎓 B.Sc. Sociology — **University of Jos** | Google Data Analytics Professional Certificate
 - 💡Currently seeking opportunities as a **Data** or **BI Analyst** where I can leverage data to improve decision-making, optimize performance, and build scalable reporting systems
-- ✨I'm in search of something beyond the daily life
+- 🌍 I'm working with clients globally on **Contra** and **Fiverr**
 
 ---
 
@@ -99,3 +97,6 @@ I'm open to freelance projects, collaborations, and data conversations. If you h
 🌐 **[Portfolio](https://elhanang.github.io/El-hananGarba.github.io/)**
 
 💼 **[Contra](https://contra.com/elhanang)**
+
+## ✨ Fun Fact
+I'm in search of something beyond the daily life
